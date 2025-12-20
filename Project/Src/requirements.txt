@@ -1,0 +1,9 @@
+torch
+torchvision
+timm
+facenet-pytorch
+opencv-python-headless
+pillow
+numpy
+tensorflow
+gradio
